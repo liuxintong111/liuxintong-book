@@ -1,0 +1,23 @@
+{
+  "name": "liuxintong-book",
+  "version": "1.0.0",
+  "description": "这是GitBook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxintong111/liuxintong-book.git"
+  },
+  "keywords": [],
+  "author": "liuxintong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuxintong111/liuxintong-book/issues"
+  },
+  "homepage": "https://github.com/liuxintong111/liuxintong-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
